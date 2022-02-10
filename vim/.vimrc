@@ -1,6 +1,7 @@
 " Pre-requisites:
 " [Linux] apt install git curl -y
 " curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+" Install this .vimrc: cd ~ && wget https://raw.githubusercontent.com/bvisonl/bvisonl/main/vim/.vimrc
 
 
 """""""""""""""""
