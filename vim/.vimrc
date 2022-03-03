@@ -19,6 +19,7 @@ call plug#end()
 "
 
 " NERDTree maps
+let g:NERDTreeWinPos = "right"
 nnoremap <leader>n :NERDTreeFocus<CR>
 nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
