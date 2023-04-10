@@ -39,6 +39,10 @@ set tabstop=4
 set shiftwidth=4
 " On pressing tab, insert 4 spaces
 set expandtab
+" Show numbers
+set number
+" Always paste mode
+set paste
 
 " Open new split panes to right and bottom, which feels more natural than Vim’s default
 set splitbelow
