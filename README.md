@@ -4,8 +4,8 @@
 
 ### 🦝 About Me
 
-- 🔭 I’m currently working on the VoIP industry as a Software and infrastructure Engineer.
-- 🌱 I’m currently learning lots of GoLang, K8S, and Voice Over IP related technologies(FreeSWITCH, Kamailio, RTPEngine, etc.)
+- 🔭 I’m currently working in the VoIP industry as a Software and Infrastructure Engineer.
+- 🌱 I’m currently doing lots of GoLang, K8S, and Voice Over IP related technologies(FreeSWITCH, Kamailio, RTPEngine, etc.)
 - 👯 I’m looking to collaborate on GoLang startups so hit me up and I will contribute if possible!
 - 💬 Ask me about anything!
 - 🎮 Currently playing a lot of Nintendo Switch (Hit me up if you want to play! Friend code: SW-3440-2334-4051)
